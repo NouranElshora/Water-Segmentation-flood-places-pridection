@@ -1,5 +1,3 @@
-# Water-Segmentation-flood-places-pridection
-
 # Water Segmentation using Multispectral and Optical Data 
 
 ## 📌 Objective
