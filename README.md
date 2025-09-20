@@ -9,4 +9,5 @@ Applications include **flood monitoring, water resource management, and environm
 ## ⚙️ Project Setup
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/water-segmentation-unet.git
+   git clone https://github.com/NouranElshora/Water-Segmentation-flood-places-pridection.git
+
